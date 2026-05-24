@@ -5,6 +5,7 @@
 ### AI & ML Engineer · Computer Vision · Deep Learning · NLP
 
 <br/>
+<br/>
 
 <a href="https://portfolio-d3y7.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 &nbsp;
@@ -34,6 +35,8 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,6 +63,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
