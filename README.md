@@ -4,12 +4,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=520&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+NLP;22%2B+Projects+Built+%7C+4+Deployed+Live;Open+to+Opportunities+%F0%9F%9F%A2" alt="Typing" />
 
-<br/><br/>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-00d4ff?style=for-the-badge&logoColor=white&labelColor=060B18)](https://portfolio-d3y7.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banda-sathvik/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandasathvik0@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=Sathvik0728&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)](https://github.com/Sathvik0728)
+<a href="https://portfolio-d3y7.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/banda-sathvik/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:bandasathvik0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/Sathvik0728"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -87,31 +90,9 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sathvik0728&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github&include_all_commits=true" height="170"/>
-
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sathvik0728&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=003566&hide_border=true)](https://github.com/Sathvik0728)
-
-</div>
-
-<br/>
-
 <div align="center">
 
 **💬 If you find my work interesting, let's connect!**
-
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%2300d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=060B18)](https://portfolio-d3y7.vercel.app)
 
 <br/>
 
