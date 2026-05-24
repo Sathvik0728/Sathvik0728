@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060B18,50:003566,100:00d4ff&height=200&section=header&text=%F0%9F%A4%96%20Sathvik%20Banda&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=AI%20%26%20ML%20Engineer&descAlignY=65&descSize=18&descColor=00d4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=%F0%9F%A4%96+Sathvik+Banda&fontSize=48&fontColor=fff&fontAlignY=45&desc=AI+%26+ML+Engineer+%7C+Computer+Vision+%7C+Deep+Learning&descAlignY=65&descSize=16&descColor=00d4ff" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=520&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+NLP;22%2B+Projects+Built+%7C+4+Deployed+Live;Open+to+Opportunities+%F0%9F%9F%A2" alt="Typing" />
 
@@ -82,8 +82,8 @@
 | [**🏋️ PoseAI Pro**](https://github.com/Sathvik0728/PoseAI-Pro-Posture-and-Squat-Detection) | Real-time squat counter & posture analyzer | Python · Streamlit · MediaPipe |
 | [**😊 Face Emotion Recognition**](https://github.com/Sathvik0728/Face-Emotion-Recognition) | 7-class live emotion detection via webcam | TensorFlow · OpenCV · CNN |
 | [**🤟 Sign Language Detection**](https://github.com/Sathvik0728/Sign_Language_detection) | Multi-backend sign language recognition | OpenCV · cvzone · MediaPipe |
-| [**🌐 AI Language Translator**](https://github.com/Sathvik0728/AI-Language-Translator) | 50+ language translator with voice I/O · [Live ↗](https://ai-language-translator-dvy5.onrender.com) | Flask · Deep Translator |
-| [**📩 SMS Spam Detector**](https://github.com/Sathvik0728/SMS-Spam-Detector) | NLP spam classifier with confidence scores · [Live ↗](https://sms-spam-detector-v0s7.onrender.com) | Flask · scikit-learn · TF-IDF |
+| [**🌐 AI Language Translator**](https://github.com/Sathvik0728/AI-Language-Translator) | 50+ language translator with voice I/O | Flask · Deep Translator · Speech API |
+| [**📩 SMS Spam Detector**](https://github.com/Sathvik0728/SMS-Spam-Detector) | NLP spam classifier with confidence scores | Flask · scikit-learn · TF-IDF |
 | [**🎮 Subway Surfers Pose Control**](https://github.com/Sathvik0728/Subway-Surfers-Pose-Control) | Control a game with full body movements | Python · MediaPipe · PyAutoGUI |
 
 </div>
@@ -96,6 +96,6 @@
 
 <br/>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:003566,100:060B18&height=120&section=footer)](https://portfolio-d3y7.vercel.app)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
 
 </div>
