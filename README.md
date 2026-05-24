@@ -1,12 +1,8 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:060B18,40:003566,100:00d4ff&height=220&section=header&text=Sathvik%20Banda&fontSize=55&fontColor=ffffff&fontAlignY=42&fontAlign=62&desc=AI%20%26%20ML%20Engineer&descAlignY=60&descSize=18&descColor=00d4ff&descAlign=62&animation=fadeIn)](https://portfolio-d3y7.vercel.app)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:060B18,40:003566,100:00d4ff&height=220&section=header&text=Sathvik%20Banda&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=AI%20%26%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=65&descSize=16&descColor=00d4ff&animation=fadeIn)](https://portfolio-d3y7.vercel.app)
 
-<img src="https://github.com/Sathvik0728.png" width="120" style="border-radius: 50%; border: 3px solid #00d4ff;" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=520&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+NLP;22%2B+Projects+Built+%7C+4+Deployed+Live;Open+to+Opportunities+%F0%9F%9F%A2" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=520&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+NLP;22%2B+Projects+Built+%7C+4+Deployed+Live;Open+to+Opportunities+%F0%9F%9F%A2" alt="Typing" />
 
 <br/><br/>
 
@@ -21,29 +17,21 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class SathvikBanda:
-    name       = "Sathvik Banda"
-    role       = "AI & ML Engineer"
-    education  = "B.Tech CSE (AI & ML) — MRCE · Graduating 2027"
-    focus      = ["Computer Vision", "Deep Learning", "NLP", "Web AI"]
-    projects   = "22+ built · 4 deployed live"
-    status     = "🟢 Open to opportunities"
-    portfolio  = "https://portfolio-d3y7.vercel.app"
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik0728&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=6" width="340"/>
 
-    def motto(self):
-        return "I turn complex AI into products people can actually use."
-```
+🎓 &nbsp;Final-year **B.Tech CSE (AI & ML)** student at MRCE, graduating 2027
 
-<br/>
+🤖 &nbsp;I build **intelligent systems** — from gesture interfaces to deployed ML pipelines
 
-## 🏆 GitHub Trophies
+👁️ &nbsp;Core focus: **Computer Vision · Deep Learning · NLP · Web AI**
 
-<div align="center">
+🚀 &nbsp;**22+ projects** built · **4 live** on the web
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sathvik0728&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/Sathvik0728)
+🌍 &nbsp;Portfolio → [portfolio-d3y7.vercel.app](https://portfolio-d3y7.vercel.app)
 
-</div>
+🟢 &nbsp;**Open to internships & full-time opportunities**
+
+<br clear="right"/>
 
 <br/>
 
@@ -91,8 +79,8 @@ class SathvikBanda:
 | [**🏋️ PoseAI Pro**](https://github.com/Sathvik0728/PoseAI-Pro-Posture-and-Squat-Detection) | Real-time squat counter & posture analyzer | Python · Streamlit · MediaPipe |
 | [**😊 Face Emotion Recognition**](https://github.com/Sathvik0728/Face-Emotion-Recognition) | 7-class live emotion detection via webcam | TensorFlow · OpenCV · CNN |
 | [**🤟 Sign Language Detection**](https://github.com/Sathvik0728/Sign_Language_detection) | Multi-backend sign language recognition | OpenCV · cvzone · MediaPipe |
-| [**🌐 AI Language Translator**](https://github.com/Sathvik0728/AI-Language-Translator) | 50+ language translator with voice I/O · [Live](https://ai-language-translator-dvy5.onrender.com) | Flask · Deep Translator |
-| [**📩 SMS Spam Detector**](https://github.com/Sathvik0728/SMS-Spam-Detector) | NLP spam classifier with confidence scores · [Live](https://sms-spam-detector-v0s7.onrender.com) | Flask · scikit-learn · TF-IDF |
+| [**🌐 AI Language Translator**](https://github.com/Sathvik0728/AI-Language-Translator) | 50+ language translator with voice I/O · [Live ↗](https://ai-language-translator-dvy5.onrender.com) | Flask · Deep Translator |
+| [**📩 SMS Spam Detector**](https://github.com/Sathvik0728/SMS-Spam-Detector) | NLP spam classifier with confidence scores · [Live ↗](https://sms-spam-detector-v0s7.onrender.com) | Flask · scikit-learn · TF-IDF |
 | [**🎮 Subway Surfers Pose Control**](https://github.com/Sathvik0728/Subway-Surfers-Pose-Control) | Control a game with full body movements | Python · MediaPipe · PyAutoGUI |
 
 </div>
@@ -104,12 +92,6 @@ class SathvikBanda:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sathvik0728&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github&include_all_commits=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik0728&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=6" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sathvik0728&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" height="170"/>
 
 </div>
 
@@ -129,7 +111,9 @@ class SathvikBanda:
 
 **💬 If you find my work interesting, let's connect!**
 
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-00d4ff?style=for-the-badge)](https://portfolio-d3y7.vercel.app)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%2300d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=060B18)](https://portfolio-d3y7.vercel.app)
+
+<br/>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:003566,100:060B18&height=120&section=footer)](https://portfolio-d3y7.vercel.app)
 
