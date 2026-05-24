@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=%F0%9F%A4%96+Sathvik+Banda&fontSize=48&fontColor=fff&fontAlignY=45&desc=AI+%26+ML+Engineer+%7C+Computer+Vision+%7C+Deep+Learning&descAlignY=65&descSize=16&descColor=00d4ff" width="100%"/>
+# 🤖 Sathvik Banda
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=520&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+NLP;22%2B+Projects+Built+%7C+4+Deployed+Live;Open+to+Opportunities+%F0%9F%9F%A2" alt="Typing" />
+### AI & ML Engineer · Computer Vision · Deep Learning · NLP
 
 <br/>
 
@@ -14,15 +14,15 @@
 &nbsp;
 <a href="https://github.com/Sathvik0728"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+![](https://komarev.com/ghpvc/?username=Sathvik0728&style=flat&color=00d4ff&label=Profile+Views)
+
 </div>
 
-<br/>
+---
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik0728&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=6" width="340"/>
-
-🎓 &nbsp;Final-year **B.Tech CSE (AI & ML)** student at MRCE, graduating 2027
+🎓 &nbsp;Final-year **B.Tech CSE (AI & ML)** student at MRCET, graduating 2027
 
 🤖 &nbsp;I build **intelligent systems** — from gesture interfaces to deployed ML pipelines
 
@@ -34,13 +34,9 @@
 
 🟢 &nbsp;**Open to internships & full-time opportunities**
 
-<br clear="right"/>
-
-<br/>
+---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 **Languages**
 
@@ -69,13 +65,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
-<br/>
+---
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 | 🔗 Project | 📝 Description | 🛠 Stack |
 |:-----------|:--------------|:---------|
@@ -86,16 +78,12 @@
 | [**📩 SMS Spam Detector**](https://github.com/Sathvik0728/SMS-Spam-Detector) | NLP spam classifier with confidence scores | Flask · scikit-learn · TF-IDF |
 | [**🎮 Subway Surfers Pose Control**](https://github.com/Sathvik0728/Subway-Surfers-Pose-Control) | Control a game with full body movements | Python · MediaPipe · PyAutoGUI |
 
-</div>
-
-<br/>
+---
 
 <div align="center">
 
-**💬 If you find my work interesting, let's connect!**
+💬 **If you find my work interesting, let's connect!**
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=060B18)](https://portfolio-d3y7.vercel.app)
 
 </div>
