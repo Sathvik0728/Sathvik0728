@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:060B18,40:003566,100:00d4ff&height=220&section=header&text=Sathvik%20Banda&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=AI%20%26%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=65&descSize=16&descColor=00d4ff&animation=fadeIn)](https://portfolio-d3y7.vercel.app)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060B18,50:003566,100:00d4ff&height=200&section=header&text=%F0%9F%A4%96%20Sathvik%20Banda&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=AI%20%26%20ML%20Engineer&descAlignY=65&descSize=18&descColor=00d4ff" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=520&lines=Building+intelligent+systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+NLP;22%2B+Projects+Built+%7C+4+Deployed+Live;Open+to+Opportunities+%F0%9F%9F%A2" alt="Typing" />
 
@@ -10,7 +10,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/banda-sathvik/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:bandasathvik0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&to=bandasathvik0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <a href="https://github.com/Sathvik0728"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
