@@ -11,10 +11,6 @@
 <a href="https://www.linkedin.com/in/banda-sathvik/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="https://mail.google.com/mail/?view=cm&to=bandasathvik0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/Sathvik0728"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-![](https://komarev.com/ghpvc/?username=Sathvik0728&style=flat&color=00d4ff&label=Profile+Views)
 
 </div>
 
